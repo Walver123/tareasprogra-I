@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/P3/P3/obj/Debug/net5.0/P3.csprojAssemblyReference.cache
+/Users/macbookpro/Projects/P3/P3/obj/Debug/net5.0/P3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/P3/P3/obj/Debug/net5.0/P3.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/P3/P3/obj/Debug/net5.0/P3.AssemblyInfo.cs
+/Users/macbookpro/Projects/P3/P3/obj/Debug/net5.0/P3.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/P3/P3/bin/Debug/net5.0/P3.deps.json
+/Users/macbookpro/Projects/P3/P3/bin/Debug/net5.0/P3.runtimeconfig.json
+/Users/macbookpro/Projects/P3/P3/bin/Debug/net5.0/P3.runtimeconfig.dev.json
+/Users/macbookpro/Projects/P3/P3/bin/Debug/net5.0/P3.dll
+/Users/macbookpro/Projects/P3/P3/bin/Debug/net5.0/ref/P3.dll
+/Users/macbookpro/Projects/P3/P3/bin/Debug/net5.0/P3.pdb
+/Users/macbookpro/Projects/P3/P3/obj/Debug/net5.0/P3.dll
+/Users/macbookpro/Projects/P3/P3/obj/Debug/net5.0/ref/P3.dll
+/Users/macbookpro/Projects/P3/P3/obj/Debug/net5.0/P3.pdb
+/Users/macbookpro/Projects/P3/P3/obj/Debug/net5.0/P3.genruntimeconfig.cache

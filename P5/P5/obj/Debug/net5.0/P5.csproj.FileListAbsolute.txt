@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Progra1/P5/P5/bin/Debug/net5.0/P5.deps.json
+/Users/macbookpro/Desktop/Progra1/P5/P5/bin/Debug/net5.0/P5.runtimeconfig.json
+/Users/macbookpro/Desktop/Progra1/P5/P5/bin/Debug/net5.0/P5.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Progra1/P5/P5/bin/Debug/net5.0/P5.dll
+/Users/macbookpro/Desktop/Progra1/P5/P5/bin/Debug/net5.0/ref/P5.dll
+/Users/macbookpro/Desktop/Progra1/P5/P5/bin/Debug/net5.0/P5.pdb
+/Users/macbookpro/Desktop/Progra1/P5/P5/obj/Debug/net5.0/P5.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Progra1/P5/P5/obj/Debug/net5.0/P5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Progra1/P5/P5/obj/Debug/net5.0/P5.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Progra1/P5/P5/obj/Debug/net5.0/P5.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Progra1/P5/P5/obj/Debug/net5.0/P5.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Progra1/P5/P5/obj/Debug/net5.0/P5.dll
+/Users/macbookpro/Desktop/Progra1/P5/P5/obj/Debug/net5.0/ref/P5.dll
+/Users/macbookpro/Desktop/Progra1/P5/P5/obj/Debug/net5.0/P5.pdb
+/Users/macbookpro/Desktop/Progra1/P5/P5/obj/Debug/net5.0/P5.genruntimeconfig.cache
